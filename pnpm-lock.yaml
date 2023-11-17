@@ -31,11 +31,11 @@ importers:
     dependencies:
       wnview:
         specifier: workspace:^
-        version: link:../packages/wnview
-
-  packages/wn-ui: {}
+        version: link:../packages/wnview/dist
 
   packages/wnview: {}
+
+  packages/wnview/dist: {}
 
 packages:
 
