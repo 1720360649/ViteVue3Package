@@ -13,6 +13,6 @@
 
 # 使用流程
 ### 1.在根目录&examples&packages/wnview三处分别执行pnpm i
-### 2.examples目录下执行pnpm run serve 测试wnview包中的button组件
-### 3.在wnview目录下执行pnpm run build 打包wnview包
+### 2.在wnview目录下执行pnpm run build 打包wnview包
+### 3.examples目录下执行pnpm run serve 测试wnview包中的button组件
 ### 4.在examples和wnview安装新的插件的时需要追加 -w 参数eg:pnpm i vue3-lottie -D -w
